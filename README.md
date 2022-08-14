@@ -1,7 +1,7 @@
 # passwordGenerator
 
 ## Description
-This is my password Generator it will get a custom password which includes lowercase, uppercase, numbers, and special characters if selected. 
+This is my password Generator it will give a custom password which includes lowercase, uppercase, numbers, and special characters if selected. 
 
 ## Table of Contents
 * [Preview](#Preview)
